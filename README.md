@@ -16,7 +16,7 @@ My name is Carine Ribeiro and I am chemistry PhD scholar working on my cheminfor
 - 💻 I’m currently learning machine learning and data science
 - ✨ My interests includes Python, Storytelling and Data Science techniques to solve chemistry and health problems
 - 👩 Pronouns: She/her
-- ❤️ Fun fact: I love 🐈 and 🛼
+- ❤️ Fun fact: I love 🐈 and roller skating
 
 #### **Connect with me:**
 
