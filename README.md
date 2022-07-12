@@ -14,7 +14,8 @@ My name is Carine Ribeiro and I am a chemistry PhD scholar working on my cheminf
 
 - 👩‍🔬 I’m currently working on a drug discovery project
 - 💻 I’m currently working on machine learning skills and data science
-- ✨ My interests includes Python, Shell script, Molecular Modeling, Storytelling and Data Science techniques to solve chemistry and health problems
+- ✨ My interests includes Python, Shell script, molecular modeling, storytelling 
+and data science techniques to solve life science and healthcare problems
 - 👩 Pronouns: She/her
 - ❤️ Fun fact: I love 🐈 and roller skating
 
@@ -28,6 +29,7 @@ My name is Carine Ribeiro and I am a chemistry PhD scholar working on my cheminf
 #### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
@@ -47,7 +49,7 @@ My name is Carine Ribeiro and I am a chemistry PhD scholar working on my cheminf
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
+  
 <div align="left">
   <a href="https://github.com/carineribeirost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carineribeirost&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
