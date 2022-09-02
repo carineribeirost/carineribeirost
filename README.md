@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-My name is Carine Ribeiro and I am a chemistry PhD scholar working on my cheminformatics, molecular modeling and machine learning skills. I'm here to share codes and concepts I have learned! Feel free to explore and ask questions, I'd love to help!
+My name is Carine Ribeiro and I am a chemistry Dsc student working on my cheminformatics, molecular modeling and machine learning skills. I'm here to share codes and concepts I have learned! Feel free to explore and ask questions, I'd love to help!
 
 
 ---
