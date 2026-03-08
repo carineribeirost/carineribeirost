@@ -14,7 +14,6 @@ My name is Carine Ribeiro dos Santos and I'm a PhD Candidate in Chemistry, worki
 
 - 🧬 Research focus: AI for science (drug discovery & materials)
 - ✨ My interests include Python, Shell script, generative and predictive AI,  molecular modeling, storytelling, and cheminformatics workflows across drug discovery and materials design
-- 👩 Pronouns: She/her
 - ❤️ Fun fact: I love 🐈, ice skating ⛸️, and singing 🎤
 
 #### **Connect with me:**
