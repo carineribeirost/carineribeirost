@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-My name is Carine Ribeiro dos Santos and I'm a PhD Candidate in Chemistry, working at the intersection of AI, cheminformatics, and drug discovery. I build predictive and generative models for molecules and materials and share what I learn along the way! Feel free to explore and ask questions, I'd love to help!
+My name is Carine Ribeiro dos Santos and I'm a PhD Candidate in Chemistry, working at the intersection of AI, cheminformatics, and computational drug discovery, spanning from predictive and generative models to molecular simulations and structure-based validation. I share what I learn along the way, feel free to explore and ask questions, I'd love to help!
 
 
 ---
